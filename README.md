@@ -5,12 +5,12 @@ Expression AI is implemented to detect real time facial expression of humans. It
 https://www.kaggle.com/ahmedmoorsy/facial-expression
 
 Technologies Used:
-Python
-Numpy
-Pandas
-Keras
-Tensorflow
-OpenCV 
+- Python
+- Numpy
+- Pandas
+- Keras
+- Tensorflow
+- OpenCV 
 
 It uses haarcascade_frontai_default.xml to detect the face.
 
