@@ -12,7 +12,7 @@ Technologies Used:
 - Tensorflow
 - OpenCV 
 
-It uses haarcascade_frontai_default.xml to detect the face.
+It uses haarcascade_frontalface_default.xml to detect the face.
 
 A input is given to the trained model through webcam to predict the expression.
 
