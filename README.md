@@ -1,9 +1,18 @@
-# Face-Expression-Detection-Opencv
+# Expression-AI-Opencv
 
-Face expression detection is based on the Convolutional neural network architecture. It uses a dataset from kaggle fers2013.csv. https://www.kaggle.com/ahmedmoorsy/facial-expression
+Expression AI is implemented to detect real time facial expression of humans. It is based on the Convolutional Neural Network Architecture. CNN model is trained on the dataset from the kaggle.
 
-It is implemented in tensorflow. Model is trained on this dataset. And it uses opencv to detect the human face. 
-A input is given to the model through webcam to predict the expression.
+https://www.kaggle.com/ahmedmoorsy/facial-expression
+
+Technologies Used:
+Python
+Numpy
+Pandas
+Keras
+Tensorflow
+OpenCV 
 
 It uses haarcascade_frontai_default.xml to detect the face.
+
+A input is given to the trained model through webcam to predict the expression.
 
